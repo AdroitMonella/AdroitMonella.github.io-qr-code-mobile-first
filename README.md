@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/AdroitMonella/AdroitMonella.github.io-qr-code-mobile-first/blob/main/index.html
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://adroitmonella.github.io/qr-code-mobile-first/
 
 ## My process
 
